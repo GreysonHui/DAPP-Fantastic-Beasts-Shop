@@ -1,0 +1,146 @@
+[
+  {
+    "id": 0,
+    "name": "Frieda",
+    "picture": "images/1.png",
+    "age": 5,
+    "breed": "Frozen Magic",
+    "location": "Black Magic Star",
+    "repertory": 3
+  },
+  {
+    "id": 1,
+    "name": "Gina",
+    "picture": "images/2.png",
+    "age": 3,
+    "breed": "Hot Wheels",
+    "location": "Hip Hop Star",
+    "repertory": 3
+  },
+  {
+    "id": 2,
+    "name": "Collins",
+    "picture": "images/3.png",
+    "age": 2,
+    "breed": "Fire Punch",
+    "location": "Hip Hop Star",
+    "repertory": 3
+  },
+  {
+    "id": 3,
+    "name": "Melissa",
+    "picture": "images/4.png",
+    "age": 1,
+    "breed": "Dragon Punch",
+    "location": "Pandora Star",
+    "repertory": 3
+  },
+  {
+    "id": 4,
+    "name": "Jeanine",
+    "picture": "images/5.png",
+    "age": 2,
+    "breed": "Dynamic Photoreceptor",
+    "location": "Otto Star",
+    "repertory": 3
+  },
+  {
+    "id": 5,
+    "name": "Elvia",
+    "picture": "images/6.png",
+    "age": 3,
+    "breed": "Poison Sting",
+    "location": "Pandora Star",
+    "repertory": 3
+  },
+  {
+    "id": 6,
+    "name": "Latisha",
+    "picture": "images/7.png",
+    "age": 3,
+    "breed": "Teleport",
+    "location": "Wisdom Star",
+    "repertory": 3
+  },
+  {
+    "id": 7,
+    "name": "Coleman",
+    "picture": "images/8.png",
+    "age": 3,
+    "breed": "Frozen Magic",
+    "location": "Fantasy Crystal Star",
+    "repertory": 3
+  },
+  {
+    "id": 8,
+    "name": "Nichole",
+    "picture": "images/9.png",
+    "age": 1,
+    "breed": "Confuse Ray",
+    "location": "Wisdom Star",
+    "repertory": 3
+  },
+  {
+    "id": 9,
+    "name": "Fran",
+    "picture": "images/10.png",
+    "age": 3,
+    "breed": "Fire Punch",
+    "location": "Hip Hop Star",
+    "repertory": 3
+  },
+  {
+    "id": 10,
+    "name": "Leonor",
+    "picture": "images/11.png",
+    "age": 2,
+    "breed": "Lazer Eyes",
+    "location": "Otto Star",
+    "repertory": 3
+  },
+  {
+    "id": 11,
+    "name": "Dean",
+    "picture": "images/12.png",
+    "age": 3,
+    "breed": "Thunder Punch",
+    "location": "Black Magic Star",
+    "repertory": 3
+  },
+  {
+    "id": 12,
+    "name": "Stevenson",
+    "picture": "images/13.png",
+    "age": 4,
+    "breed": "Dream Eater",
+    "location": "Pandora Star",
+    "repertory": 3
+  },
+  {
+    "id": 13,
+    "name": "Kristina",
+    "picture": "images/14.png",
+    "age": 4,
+    "breed": "Magnetic",
+    "location": "Otto Star",
+    "repertory": 3
+  },
+  {
+    "id": 14,
+    "name": "Ethel",
+    "picture": "images/15.png",
+    "age": 2,
+    "breed": "Tornado",
+    "location": "Black Magic Star",
+    "repertory": 3
+  },
+  {
+    "id": 15,
+    "name": "Terry",
+    "picture": "images/0.png",
+    "age": 2,
+    "breed": "Stealth",
+    "location": "Otto Star",
+    "repertory": 3
+  }
+]
